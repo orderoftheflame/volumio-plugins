@@ -73,6 +73,7 @@ volumio plugin install
 - [X] Tidy logging
 - [X] Change receiver to "Line 1" channel after power on
 - [X] Input from dropdown
+- [ ] Needs to send command on streaming (airplay) start / stop
 - [ ] Prevent the power/volume/input command from being sent on track change (delay check for new state?)
 - [ ] Filter list of input channels to be more relevant
 - [ ] Improve host/ip config UI if possible
